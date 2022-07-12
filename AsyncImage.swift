@@ -1,8 +1,8 @@
 //
 //  AsyncImage.swift
-//  Fidibo
+//  Majid Hassani
 //
-//  Created by Fidibo on 6/26/22.
+//  Created by Majid on 6/26/22.
 //
 
 
